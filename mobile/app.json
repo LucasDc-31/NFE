@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Marlene's Grill - Notas Fiscais",
+    "slug": "nfe-mobile",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Marlene's Grill - Notas Fiscais",
+      "shortName": "Marlene's Notas",
+      "lang": "pt-BR",
+      "backgroundColor": "#55060b",
+      "themeColor": "#55060b"
+    }
+  }
+}

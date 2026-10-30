@@ -1,0 +1,1090 @@
+{
+  "_aviso": "Preços do cardápio Marlene's Grill. O preço de cada item pode ser editado na hora da venda; o valor aqui é só a sugestão (0 = o app pede para informar). Confirme NCM, CFOP e CSOSN de cada categoria com seu contador.",
+  "categorias": [
+    {
+      "id": "lanches",
+      "nome": "Lanches Prensados",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "hot-dog",
+      "nome": "Hot Dog Prensado",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "ligeirinho",
+      "nome": "Ligeirinho Pão Francês",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "combo-lanche",
+      "nome": "Combos de Lanche",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "pizzas",
+      "nome": "Pizzas",
+      "fiscal": {
+        "ncm": "19059090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "borda",
+      "nome": "Borda Recheada",
+      "fiscal": {
+        "ncm": "19059090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "porcoes",
+      "nome": "Porções",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "torre",
+      "nome": "Torre de Batata",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "combos",
+      "nome": "Combos",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "janta",
+      "nome": "Janta",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "refeicoes",
+      "nome": "Refeições",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "marmitas",
+      "nome": "Marmitas",
+      "fiscal": {
+        "ncm": "21069090",
+        "cfop": "5101",
+        "csosn": "102"
+      }
+    },
+    {
+      "id": "refrigerantes",
+      "nome": "Refrigerantes",
+      "fiscal": {
+        "ncm": "22021000",
+        "cfop": "5405",
+        "csosn": "500"
+      }
+    }
+  ],
+  "produtos": [
+    {
+      "id": "lanches-x-salada",
+      "categoria": "lanches",
+      "nome": "X Salada",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 22
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-bacon",
+      "categoria": "lanches",
+      "nome": "X Bacon",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 26
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-calabresa",
+      "categoria": "lanches",
+      "nome": "X Calabresa",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 26
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-americano",
+      "categoria": "lanches",
+      "nome": "X Americano",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 26
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-burguer",
+      "categoria": "lanches",
+      "nome": "X Burguer",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 19
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-frango",
+      "categoria": "lanches",
+      "nome": "X Frango",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 26
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-egg",
+      "categoria": "lanches",
+      "nome": "X Egg",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 21
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-alcatra",
+      "categoria": "lanches",
+      "nome": "X Alcatra",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 34
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-strogonoff",
+      "categoria": "lanches",
+      "nome": "X Strogonoff",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 34
+        }
+      ]
+    },
+    {
+      "id": "lanches-x-tudo",
+      "categoria": "lanches",
+      "nome": "X Tudo",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 34
+        }
+      ]
+    },
+    {
+      "id": "hot-dog-hot-dog-simples",
+      "categoria": "hot-dog",
+      "nome": "Hot Dog Simples",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 19
+        }
+      ]
+    },
+    {
+      "id": "hot-dog-hot-dog-completo",
+      "categoria": "hot-dog",
+      "nome": "Hot Dog Completo",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 26
+        }
+      ]
+    },
+    {
+      "id": "ligeirinho-ligeirinho-alcatra",
+      "categoria": "ligeirinho",
+      "nome": "Ligeirinho Alcatra",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 26
+        }
+      ]
+    },
+    {
+      "id": "ligeirinho-ligeirinho-bacon",
+      "categoria": "ligeirinho",
+      "nome": "Ligeirinho Bacon",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 20
+        }
+      ]
+    },
+    {
+      "id": "ligeirinho-ligeirinho-calabresa",
+      "categoria": "ligeirinho",
+      "nome": "Ligeirinho Calabresa",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 20
+        }
+      ]
+    },
+    {
+      "id": "ligeirinho-ligeirinho-frango",
+      "categoria": "ligeirinho",
+      "nome": "Ligeirinho Frango",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 20
+        }
+      ]
+    },
+    {
+      "id": "combo-lanche-combo-america-1-salada-batata-frita-e-suco-200ml",
+      "categoria": "combo-lanche",
+      "nome": "Combo América (1 salada, batata frita e suco 200ml)",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 32
+        }
+      ]
+    },
+    {
+      "id": "combo-lanche-combo-de-lanche-porcao-de-batata-completa-e-calabresa",
+      "categoria": "combo-lanche",
+      "nome": "Combo de Lanche (porção de batata completa e calabresa)",
+      "variantes": [
+        {
+          "id": "com-1-salada",
+          "nome": "com 1 salada",
+          "preco": 42
+        },
+        {
+          "id": "com-2-salada",
+          "nome": "com 2 salada",
+          "preco": 52
+        },
+        {
+          "id": "com-3-salada",
+          "nome": "com 3 salada",
+          "preco": 62
+        }
+      ]
+    },
+    {
+      "id": "pizzas-pizza",
+      "categoria": "pizzas",
+      "nome": "Pizza",
+      "variantes": [
+        {
+          "id": "p-4-pedacos",
+          "nome": "P (4 pedaços)",
+          "preco": 42
+        },
+        {
+          "id": "m-6-pedacos",
+          "nome": "M (6 pedaços)",
+          "preco": 49
+        },
+        {
+          "id": "g-8-pedacos",
+          "nome": "G (8 pedaços)",
+          "preco": 62
+        },
+        {
+          "id": "mini",
+          "nome": "Mini",
+          "preco": 0
+        }
+      ]
+    },
+    {
+      "id": "borda-borda-recheada",
+      "categoria": "borda",
+      "nome": "Borda recheada",
+      "variantes": [
+        {
+          "id": "catupiry",
+          "nome": "Catupiry",
+          "preco": 8
+        },
+        {
+          "id": "cheddar",
+          "nome": "Cheddar",
+          "preco": 8
+        },
+        {
+          "id": "chocolate",
+          "nome": "Chocolate",
+          "preco": 8
+        }
+      ]
+    },
+    {
+      "id": "porcoes-poleta-frita",
+      "categoria": "porcoes",
+      "nome": "Poleta Frita",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 20
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 28
+        }
+      ]
+    },
+    {
+      "id": "porcoes-frango-a-passarinho",
+      "categoria": "porcoes",
+      "nome": "Frango à Passarinho",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 28
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 38
+        }
+      ]
+    },
+    {
+      "id": "porcoes-file-de-tilapia",
+      "categoria": "porcoes",
+      "nome": "Filé de Tilápia",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 56
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 56
+        }
+      ]
+    },
+    {
+      "id": "porcoes-coxinha-de-costela",
+      "categoria": "porcoes",
+      "nome": "Coxinha de Costela",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 19
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 29
+        }
+      ]
+    },
+    {
+      "id": "porcoes-churros-doce-de-leite",
+      "categoria": "porcoes",
+      "nome": "Churros Doce de Leite",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 19
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 29
+        }
+      ]
+    },
+    {
+      "id": "porcoes-quibe-c-requeijao",
+      "categoria": "porcoes",
+      "nome": "Quibe c/ Requeijão",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 19
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 29
+        }
+      ]
+    },
+    {
+      "id": "porcoes-alcatra-na-chapa",
+      "categoria": "porcoes",
+      "nome": "Alcatra na Chapa",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 46
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 56
+        }
+      ]
+    },
+    {
+      "id": "porcoes-batata-palito",
+      "categoria": "porcoes",
+      "nome": "Batata Palito",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 22
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 28
+        }
+      ]
+    },
+    {
+      "id": "porcoes-batata-completa",
+      "categoria": "porcoes",
+      "nome": "Batata Completa",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 34
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 42
+        }
+      ]
+    },
+    {
+      "id": "porcoes-bolinha-de-queijo",
+      "categoria": "porcoes",
+      "nome": "Bolinha de Queijo",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 22
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 32
+        }
+      ]
+    },
+    {
+      "id": "porcoes-bolinha-de-bacalhau",
+      "categoria": "porcoes",
+      "nome": "Bolinha de Bacalhau",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 28
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 38
+        }
+      ]
+    },
+    {
+      "id": "porcoes-bolinha-de-carne-seca",
+      "categoria": "porcoes",
+      "nome": "Bolinha de Carne Seca",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 21
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 31
+        }
+      ]
+    },
+    {
+      "id": "porcoes-calabresa-acebolada",
+      "categoria": "porcoes",
+      "nome": "Calabresa Acebolada",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 24
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 36
+        }
+      ]
+    },
+    {
+      "id": "porcoes-bolinho-de-carne-da-marlene",
+      "categoria": "porcoes",
+      "nome": "Bolinho de Carne da Marlene",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 30
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 40
+        }
+      ]
+    },
+    {
+      "id": "torre-torre-de-batata-bacon",
+      "categoria": "torre",
+      "nome": "Torre de Batata Bacon",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 26
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 42
+        }
+      ]
+    },
+    {
+      "id": "torre-torre-de-batata-calabresa",
+      "categoria": "torre",
+      "nome": "Torre de Batata Calabresa",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 26
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 42
+        }
+      ]
+    },
+    {
+      "id": "torre-torre-de-batata-frango",
+      "categoria": "torre",
+      "nome": "Torre de Batata Frango",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 26
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 42
+        }
+      ]
+    },
+    {
+      "id": "torre-torre-de-batata-tudo",
+      "categoria": "torre",
+      "nome": "Torre de Batata Tudo",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 30
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 46
+        }
+      ]
+    },
+    {
+      "id": "combos-combo-file-2",
+      "categoria": "combos",
+      "nome": "Combo Filé 2",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 91
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 98
+        }
+      ]
+    },
+    {
+      "id": "combos-combo-misto",
+      "categoria": "combos",
+      "nome": "Combo Misto",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 72
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 98
+        }
+      ]
+    },
+    {
+      "id": "combos-combo-familia",
+      "categoria": "combos",
+      "nome": "Combo Família",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 93
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 122
+        }
+      ]
+    },
+    {
+      "id": "combos-combo-alcatra",
+      "categoria": "combos",
+      "nome": "Combo Alcatra",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 93
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 122
+        }
+      ]
+    },
+    {
+      "id": "combos-combo-saboroso",
+      "categoria": "combos",
+      "nome": "Combo Saboroso",
+      "variantes": [
+        {
+          "id": "meia",
+          "nome": "Meia",
+          "preco": 97
+        },
+        {
+          "id": "inteira",
+          "nome": "Inteira",
+          "preco": 134
+        }
+      ]
+    },
+    {
+      "id": "janta-janta",
+      "categoria": "janta",
+      "nome": "Janta",
+      "variantes": [
+        {
+          "id": "prato-personalizado",
+          "nome": "Prato personalizado",
+          "preco": 30,
+          "precoLivre": true
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-refeicao",
+      "categoria": "refeicoes",
+      "nome": "Refeição",
+      "variantes": [
+        {
+          "id": "prato-personalizado",
+          "nome": "Prato personalizado",
+          "preco": 30,
+          "precoLivre": true
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-bife-a-cavalo",
+      "categoria": "refeicoes",
+      "nome": "Bife à Cavalo",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 32
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-strogonoff-de-carne",
+      "categoria": "refeicoes",
+      "nome": "Strogonoff de Carne",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 32
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-frango-grelhado",
+      "categoria": "refeicoes",
+      "nome": "Frango Grelhado",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 32
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-file-de-tilapia-a-milanesa",
+      "categoria": "refeicoes",
+      "nome": "Filé de Tilápia à Milanesa",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 32
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-fit",
+      "categoria": "refeicoes",
+      "nome": "Fit",
+      "variantes": [
+        {
+          "id": "unidade",
+          "nome": "Unidade",
+          "preco": 24
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-parmegiana",
+      "categoria": "refeicoes",
+      "nome": "Parmegiana",
+      "variantes": [
+        {
+          "id": "carne",
+          "nome": "Carne",
+          "preco": 38
+        },
+        {
+          "id": "frango",
+          "nome": "Frango",
+          "preco": 38
+        },
+        {
+          "id": "tilapia",
+          "nome": "Tilápia",
+          "preco": 38
+        }
+      ]
+    },
+    {
+      "id": "refeicoes-omelete",
+      "categoria": "refeicoes",
+      "nome": "Omelete",
+      "variantes": [
+        {
+          "id": "bacon",
+          "nome": "Bacon",
+          "preco": 22
+        },
+        {
+          "id": "calabresa",
+          "nome": "Calabresa",
+          "preco": 22
+        },
+        {
+          "id": "frango",
+          "nome": "Frango",
+          "preco": 22
+        }
+      ]
+    },
+    {
+      "id": "marmitas-marmita",
+      "categoria": "marmitas",
+      "nome": "Marmita",
+      "variantes": [
+        {
+          "id": "p",
+          "nome": "P",
+          "preco": 22
+        },
+        {
+          "id": "m",
+          "nome": "M",
+          "preco": 26
+        },
+        {
+          "id": "g",
+          "nome": "G",
+          "preco": 28
+        }
+      ]
+    },
+    {
+      "id": "refrigerantes-coca-cola",
+      "categoria": "refrigerantes",
+      "nome": "Coca-Cola",
+      "variantes": [
+        {
+          "id": "lata-350ml",
+          "nome": "Lata 350ml",
+          "preco": 0
+        },
+        {
+          "id": "600ml",
+          "nome": "600ml",
+          "preco": 0
+        },
+        {
+          "id": "1-l",
+          "nome": "1 L",
+          "preco": 0
+        },
+        {
+          "id": "1-5-l",
+          "nome": "1,5 L",
+          "preco": 0
+        },
+        {
+          "id": "2-l",
+          "nome": "2 L",
+          "preco": 0
+        },
+        {
+          "id": "2-5-l",
+          "nome": "2,5 L",
+          "preco": 0
+        }
+      ]
+    },
+    {
+      "id": "refrigerantes-guarana-antarctica",
+      "categoria": "refrigerantes",
+      "nome": "Guaraná Antarctica",
+      "variantes": [
+        {
+          "id": "lata-350ml",
+          "nome": "Lata 350ml",
+          "preco": 0
+        },
+        {
+          "id": "600ml",
+          "nome": "600ml",
+          "preco": 0
+        },
+        {
+          "id": "1-l",
+          "nome": "1 L",
+          "preco": 0
+        },
+        {
+          "id": "1-5-l",
+          "nome": "1,5 L",
+          "preco": 0
+        },
+        {
+          "id": "2-l",
+          "nome": "2 L",
+          "preco": 0
+        },
+        {
+          "id": "2-5-l",
+          "nome": "2,5 L",
+          "preco": 0
+        }
+      ]
+    },
+    {
+      "id": "refrigerantes-fanta-laranja",
+      "categoria": "refrigerantes",
+      "nome": "Fanta Laranja",
+      "variantes": [
+        {
+          "id": "lata-350ml",
+          "nome": "Lata 350ml",
+          "preco": 0
+        },
+        {
+          "id": "600ml",
+          "nome": "600ml",
+          "preco": 0
+        },
+        {
+          "id": "1-l",
+          "nome": "1 L",
+          "preco": 0
+        },
+        {
+          "id": "1-5-l",
+          "nome": "1,5 L",
+          "preco": 0
+        },
+        {
+          "id": "2-l",
+          "nome": "2 L",
+          "preco": 0
+        },
+        {
+          "id": "2-5-l",
+          "nome": "2,5 L",
+          "preco": 0
+        }
+      ]
+    },
+    {
+      "id": "refrigerantes-sprite",
+      "categoria": "refrigerantes",
+      "nome": "Sprite",
+      "variantes": [
+        {
+          "id": "lata-350ml",
+          "nome": "Lata 350ml",
+          "preco": 0
+        },
+        {
+          "id": "600ml",
+          "nome": "600ml",
+          "preco": 0
+        },
+        {
+          "id": "1-l",
+          "nome": "1 L",
+          "preco": 0
+        },
+        {
+          "id": "1-5-l",
+          "nome": "1,5 L",
+          "preco": 0
+        },
+        {
+          "id": "2-l",
+          "nome": "2 L",
+          "preco": 0
+        },
+        {
+          "id": "2-5-l",
+          "nome": "2,5 L",
+          "preco": 0
+        }
+      ]
+    }
+  ]
+}
